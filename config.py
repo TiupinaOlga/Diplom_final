@@ -1,3 +1,3 @@
-comunity_token = 'vk1.a.zpOyobSzot1gQj5bPLwlyzuZCTXOatjp5dtSPwVN4WH5XmouXvdLEcailsz5AbvOcAr2_jEoP9x7SJ8HD2-C8Dzp5EnanOoEoMC5B5NU7FWo7w3debfNECqBG7PkvJBQ7T4F-OJL0zibg_MWM1D37uWHaOA8egQks7yYGmLEU0c8weu3O2RDdpkll4p8QyVFZqJ938C-hqWdeFcCaBYRdg'
-acces_token = 'vk1.a.dWvwwfnJuQrhbcSlAFxZJWrmHZ6avdklYB3BqfLuvZ-5jEJJbaJCAat-Ja1fqJLKOqFIdichd66e2O0L8pBewkFnqmiIVuVOsm_Jpgr9k4JSWx8unx-NPGK5F582toJqoP7qCdK2aqpiDt1wRKlM8uyX1dpTrBskSadOquj7T1HfZGjdSdWsTFR5RMpYOTT8jOMAL5umeSUTu51z9h_TzA'
+comunity_token = ''
+acces_token = ''
 DNS = 'postgresql://postgres:wonder@localhost:5432/diplom'
