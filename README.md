@@ -11,10 +11,10 @@
 Популярность определяется по количеству лайков и комментариев.
 
 Установка необходимых библиотек:
-    pip install vk_api
-    pip install psycopg2
-    pip install sqlalchemy
-    pip install sqlalchemy_utils
+- vk_api
+- psycopg2
+- sqlalchemy
+
 Размещение токенов бота и пользователя в файлах config.txt
 Запуск файла main.py
 
